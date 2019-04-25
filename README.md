@@ -11,3 +11,4 @@ As Apriori requires a lot of time to process with the grows of data numbers,I de
 
 ## result
 I set the minSupport = 0.15 and minConfidence = 0.6 and the result is like below:
+ ![image](https://github.com/xcircle/datamining_attachingRules/blob/master/image/1.jpg)
